@@ -161,3 +161,8 @@ body {
     width: 700px;
   }
 }
+
+.btn
+{
+    margin-bottom: 8px;
+}
